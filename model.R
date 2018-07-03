@@ -29,7 +29,7 @@ ggplot(gg,
     theme_bw() +
     theme(
         panel.grid.minor =  element_blank()
-        ,strip.background = element_rect(fill="white")
+        # ,strip.background = element_rect(fill="white")
         # ,axis.text.x = element_blank()
         # ,axis.text.y = element_blank()
     ) +
