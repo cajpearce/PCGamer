@@ -19,7 +19,7 @@ Each of the reviews fortunately have some common features allowing for easy webs
 
 #### [model.R](https://github.com/cajpearce/PCGamer/blob/master/model.R)
 
-The final script just opens the previous dataset and is where I've done some interesting data exploration.
+The final script just opens the previous dataset and is where I've done data exploration. Some simple filters were included, such as only looking at reviewers with a minimum number of reviews (for objectivity reasons).
 
 ## Results
 
@@ -27,7 +27,7 @@ From the final dataset, the most I could ascertain were the best games and the r
 
 ![Reviewers](https://raw.githubusercontent.com/cajpearce/PCGamer/master/images/reviewers.png)
 
-Lucky for [Christopher Livingston](https://twitter.com/screencuisine) that he has had a general increase in videogame quality in his reviewer career.
+Lucky for [Christopher Livingston](https://twitter.com/screencuisine) and [Andy Chalk](https://twitter.com/AndyChalk) that they had a general increase in videogame quality over their reviewer career.
 
 ## Shortfalls
 
